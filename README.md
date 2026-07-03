@@ -60,17 +60,11 @@ pip install numpy
    cat outputs/summary.json
    ```
 
-## Sample Output
 
-The console report includes five sections:
 
-1. **All Players** — Full roster sorted by rating.
-2. **Top 5 Players** — Highest-rated players in the league.
-3. **Players Above the 75th Percentile** — Standout performers by goals.
-4. **Team Comparison** — Average stats per team.
-5. **Player Z-Scores** — Performance relative to the league average.
 
-### Example: `outputs/summary.json`
+
+### outputs/summary.json`
 
 ```json
 {
