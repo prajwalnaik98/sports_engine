@@ -64,7 +64,7 @@ pip install numpy
 
 
 
-### outputs/summary.json`
+### Sample Output (summary.json)
 
 ```json
 {
