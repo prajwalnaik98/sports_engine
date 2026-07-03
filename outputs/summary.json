@@ -1,0 +1,67 @@
+{
+    "top_5_players": [
+        {
+            "rank": 1,
+            "name": "Rakesh Chauhan",
+            "rating": 9.5
+        },
+        {
+            "rank": 2,
+            "name": "Pavan Patel",
+            "rating": 9.2
+        },
+        {
+            "rank": 3,
+            "name": "Sanjay Joshi",
+            "rating": 9.0
+        },
+        {
+            "rank": 4,
+            "name": "Omkar Shah",
+            "rating": 8.7
+        },
+        {
+            "rank": 5,
+            "name": "Arjun Sharma",
+            "rating": 8.7
+        }
+    ],
+    "team_statistics": {
+        "Bangalore Rovers": {
+            "avg_goals": 5.38,
+            "avg_assists": 5.38,
+            "avg_pass_accuracy": 76.59,
+            "avg_rating": 7.41
+        },
+        "Chennai FC": {
+            "avg_goals": 6.0,
+            "avg_assists": 5.62,
+            "avg_pass_accuracy": 76.97,
+            "avg_rating": 7.55
+        },
+        "Delhi United": {
+            "avg_goals": 6.67,
+            "avg_assists": 6.78,
+            "avg_pass_accuracy": 77.48,
+            "avg_rating": 7.61
+        },
+        "Hyderabad City": {
+            "avg_goals": 6.38,
+            "avg_assists": 5.88,
+            "avg_pass_accuracy": 77.38,
+            "avg_rating": 7.64
+        },
+        "Mumbai FC": {
+            "avg_goals": 6.56,
+            "avg_assists": 5.89,
+            "avg_pass_accuracy": 75.63,
+            "avg_rating": 7.53
+        },
+        "Pune Warriors": {
+            "avg_goals": 6.88,
+            "avg_assists": 6.5,
+            "avg_pass_accuracy": 78.85,
+            "avg_rating": 7.64
+        }
+    }
+}
