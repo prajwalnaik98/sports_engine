@@ -99,7 +99,7 @@ pip install numpy
 
 ## Author
 
-Prajwal S Naik
+Prajwal  Naik
 
 GitHub: https://github.com/prajwalnaik98
 <br>
